@@ -1,19 +1,38 @@
-![image](https://github.com/Spielanleitung/Alles_was_bleibt_sind_die_Erinnerurngen/assets/169519547/a0d07a9d-ab25-4040-a19a-86d6571e8ff9)
+<h1> Hex Hex liebes Jedi Schwert </h1>
+
+Fragen für Code IV.1:
+
+1. Löse das Kreuzworträtsel durch beantworten der Fragen (schwarze Zahlen)
+2. Verwende die Buchstaben der weißen Zahlen für den Code!
+
+1] Wer nennt Ron: WonWon (Lavender___)?
+2] Vorname Slytherin's (Schulgründer)?
+3] In welches Tier (Animagus) kann sich Rita Kimmkorn verwandeln?
+4] Wie lautet Remus Lupins zweiter Vorname?
+5] Schlange von Voldemort?
+6] Wie heißt der Stadionsprecher (Vorname)?
+7] Initialen von dem Todesser, der den Horkrux von Lord Voldemort versuchte zu zerstören?
+8] Vorname von Madame Maxime (Leiterin von Beauxbatons)?
+9] Wo versteckt sich Aragog ( im verbotenen ___)?
+10] Harry's Berufswunsch?
+11] Wie heißt Albus Dumbledore mit viertem Vornamen?
+12] Wie viele Kinder haben Bill und Fleur?
+13] Wie heißt Hagrid's Hund?
+14] Hausgeist der Slytherin's (Der Blutige ___)?
+15] Was ist Lunas Patronus?
+16] Münzart des Zaubergeldes?
+17] Form der Narbe auf Harry's Stirn?
+18] Welcher der Weasleys wird vergiftet?
+19] Die jährliche Zuordnungszeremonie durch den sprechenden ___?
+20] Was ist der Höchste Schulabschluss den Hogwarts vergeben kann?
+
+Code IV.1 --> Ergebnisse ohne Leerzeichen aneinander hängen.
 
 
+<h1> One Piece </h1>
 
-Lieber Leon,
+Fragen für Code IV.2:
 
-in einer Zeit der Zerstreuung und des Chaos sind Erinnerungen das wertvollste Gut. 
-Sie sind Bausteine unserer Identität und ermöglichen es uns, aus der Vergangenheit zu lernen und unser Leben zu gestalten.
+Wenn du die richtigen Elemente in der Szene in beliebiger Reihenfolge findest, erhältst du Hinweise auf den 2. Code!
 
-Wir brauchen in unseren Reihen mehr Auserwählte, die das wahre Potenzial besitzen und die Fähigkeit, sich zu erinnern, perfektioniert haben.
-Deine Zeitlinie ist uns nicht unbekannt, deshalb haben wir beschlossen, ein Team in deiner Zeitlinie zu bilden, um die Ereignisse besser zu überwachen und allzeit bereit zu sein, die Welt vor möglichen Bedrohungen zu retten.
-Nach eingehenden DNA-Analysen deiner Nachkommen wollen wir testen, ob du würdig bist.
-Dazu musst du dich deiner Vergangenheit stellen, indem du prägende Erinnerungen noch einmal durchlebst.
-
-Wirst du die selben Entscheidungen treffen wie damals?
-
-Auf deinem Weg gebe ich dir noch den Rat des Lebens, der dir helfen soll, Zugang zu weiteren Erinnerungen zu finden: „Wenn die Tage zu Monaten und diese zu Jahren werden, erkennen wir, dass die Zeit unser kostbarstes Gut ist. Genieße sie in vollen Zügen mit den Menschen, die dir am Herzen liegen!“
-
-Nun gehe voran und erfülle dein Schicksal!
+Code IV.2 --> Hinweise ohne Leerzeichen in richtiger Reihenfolge aneinander hängen.

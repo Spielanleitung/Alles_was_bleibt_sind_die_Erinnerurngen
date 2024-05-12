@@ -1,19 +1,24 @@
-![image](https://github.com/Spielanleitung/Alles_was_bleibt_sind_die_Erinnerurngen/assets/169519547/a0d07a9d-ab25-4040-a19a-86d6571e8ff9)
+<h1> Herr des Lord Frede </h1>
+
+Fragen für Code III.1:
+
+Löse die Fragen der Reihe nach und errate den 1. Code! 
+
+1] Wie wird der zweite Teil des Namens des Schöpfers des Seins, der Welt und der Ainur übersetzt?
+
+2] Wie lautet das 15. Wort in der Inschrift des Einen Rings in der Herr Ringe?
+
+3] Jeder weiß, dass Feanor von Galadriels Haaren inspiriert wurde. Wie oft hat er um eine Strähne gebeten?
+
+4] Wie viele Nazgul gibt es nach der Vernichtung des Einen Rings vom Feuer des Schicksalsbergs?
+
+Code III.1 --> Ergebnisse ohne Leerzeichen aneinander hängen.
 
 
+<h1> Such die Hinweise der Zwerge </h1>
 
-Lieber Leon,
+Fragen für Code III.2:
 
-in einer Zeit der Zerstreuung und des Chaos sind Erinnerungen das wertvollste Gut. 
-Sie sind Bausteine unserer Identität und ermöglichen es uns, aus der Vergangenheit zu lernen und unser Leben zu gestalten.
+Wenn du die richtigen Elemente in der Szene in beliebiger Reihenfolge findest, erhältst du Hinweise auf den 2. Code!
 
-Wir brauchen in unseren Reihen mehr Auserwählte, die das wahre Potenzial besitzen und die Fähigkeit, sich zu erinnern, perfektioniert haben.
-Deine Zeitlinie ist uns nicht unbekannt, deshalb haben wir beschlossen, ein Team in deiner Zeitlinie zu bilden, um die Ereignisse besser zu überwachen und allzeit bereit zu sein, die Welt vor möglichen Bedrohungen zu retten.
-Nach eingehenden DNA-Analysen deiner Nachkommen wollen wir testen, ob du würdig bist.
-Dazu musst du dich deiner Vergangenheit stellen, indem du prägende Erinnerungen noch einmal durchlebst.
-
-Wirst du die selben Entscheidungen treffen wie damals?
-
-Auf deinem Weg gebe ich dir noch den Rat des Lebens, der dir helfen soll, Zugang zu weiteren Erinnerungen zu finden: „Wenn die Tage zu Monaten und diese zu Jahren werden, erkennen wir, dass die Zeit unser kostbarstes Gut ist. Genieße sie in vollen Zügen mit den Menschen, die dir am Herzen liegen!“
-
-Nun gehe voran und erfülle dein Schicksal!
+Code III.2 --> Hinweise ohne Leerzeichen in richtiger Reihenfolge aneinander hängen.
