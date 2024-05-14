@@ -1,0 +1,17 @@
+richtig:  K R
+falsch 1: F A
+falsch 1: F I
+
+
+Epoche 1: 1 Reallife Game
+
+1. I.1 Enter Character Name --> S.5
+
+Epoche 2: --> 2 RealLife Games 
+2. Code II.1 Fußball Anime --> S.7
+3. Code II.2 Pokemon --> S.8
+4. Code II.3 Yugioh --> S.9
+
+Epoche 3:
+5. Code III.1 Herr der Ringe --> S.11
+6. Code III.2 Herr der Ringe --> S.11
