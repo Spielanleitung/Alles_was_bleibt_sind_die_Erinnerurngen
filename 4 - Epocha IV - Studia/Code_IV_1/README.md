@@ -26,4 +26,4 @@ Fragen für Code IV.1:
 - 19] Die jährliche Zuordnungszeremonie durch den sprechenden ___?
 - 20] Was ist der Höchste Schulabschluss den Hogwarts vergeben kann?
 
-Code IV.1 --> Ergebnisse ohne Leerzeichen aneinander hängen.
+Code IV.1 --> Buchstaben ohne Leerzeichen aneinander hängen.
