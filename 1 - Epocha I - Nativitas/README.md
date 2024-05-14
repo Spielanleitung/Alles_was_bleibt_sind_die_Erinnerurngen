@@ -1,11 +1,6 @@
-<h1> Charaktererstellung </h1>
+<h1>Epocha I: Nativitas</h1>
 
-Fragen für Code I.1:
+1. I.1 Enter Character Name --> S.5
 
-1. Wähle deine Geburtsdaten
-
-2. Nutze das beigelegte Tool um deine Aussehen zu bestimmen
-
-3. Verbinde die Namen mit einem Leerzeichen
-
-Code I.1 --> Enter Character Name...
+<h2>Real-Life-Herausfoderung 1</h2>
+![alt text](image.png)

@@ -1,6 +1,8 @@
-richtig:  K R
-falsch 1: F A
-falsch 1: F I
+richtig:  K R O N O
+falsch 1: F A H R E
+falsch 1: F I N R E
+falsch 1: F I H R E
+falsch 1: F A N R E
 
 
 Epoche 1: 1 Reallife Game
@@ -15,3 +17,11 @@ Epoche 2: --> 2 RealLife Games
 Epoche 3:
 5. Code III.1 Herr der Ringe --> S.11
 6. Code III.2 Herr der Ringe --> S.11
+
+Epoche 4:
+7. Code IV.1 Harry Potter --> S.19
+8. Code IV.2 One Piece --> S.20
+9. Code IV.3 Dragonball --> S.21
+10. Code IV.4 Pokemon Anime--> S.21
+11. Code IV.5 Dragonball --> S.21
+10. Code IV.6 LOL --> S.22
