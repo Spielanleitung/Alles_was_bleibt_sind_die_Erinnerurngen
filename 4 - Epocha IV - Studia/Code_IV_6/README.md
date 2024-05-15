@@ -53,4 +53,4 @@ Beantworte die Fragen und füge alle Lösungen zu einem String zusammen!
 - [ ] Jayce
 
 
-Code IV.6 --> Seitenzahlen in richtiger Reihenfolge aneinander hängen ohne Leerzeichen!
+Code IV.6 --> Lösungwörter in richtiger Reihenfolge aneinander hängen ohne Leerzeichen!
