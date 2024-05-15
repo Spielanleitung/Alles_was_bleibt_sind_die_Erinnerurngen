@@ -4,7 +4,8 @@ Fragen für den Code IV.6:
 Beantworte die Fragen und füge alle Lösungen zu einem String zusammen!
 
 1. Welches Team gewann 2023 das Finale bei den Worlds2023
-[ ] MAD Lions
+
+- [ ] MAD Lions
 [ ] G2 Esports 
 [ ] Fnatic
 [ ] Team BDS
