@@ -52,5 +52,7 @@ Beantworte die Fragen und füge alle Lösungen zu einem String zusammen!
 - [ ] Lee Sin
 - [ ] Jayce
 
+7. Suche diesen Champion auf dieser Seite und finde heraus, auf welche Zahl seine Waffe zeigt.
+
 
 Code IV.6 --> Lösungwörter in richtiger Reihenfolge aneinander hängen ohne Leerzeichen!
